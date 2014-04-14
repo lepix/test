@@ -1,0 +1,8 @@
+{
+    "name": "testowo",
+    "version": "1.0.0",
+    "main": "new/testowy.js",
+    "dependencies": {
+        "jquery": "latest"
+    }
+}
