@@ -6,5 +6,5 @@ function test (selector) {
 }
 
 function ready() {
-	return
+	return 1
 }
