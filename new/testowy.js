@@ -5,4 +5,6 @@ function test (selector) {
     }
 }
 
-// todo
+function ready() {
+	return
+}
